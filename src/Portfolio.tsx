@@ -253,6 +253,16 @@ export default function Portfolio() {
     }
   }, [lbOpen]);
 
+  // Set the browser tab title
+  useEffect(() => {
+    const prev = document.title;
+    const title = `${PROFILE.name.trim()} — Portfolio`;
+    if (document.title !== title) document.title = title;
+    return () => {
+      document.title = prev;
+    };
+  }, []);
+
   const openLightbox = (projIndex: number, imgIndex: number) => {
     setLbProjIdx(projIndex);
     setLbImgIdx(imgIndex);
