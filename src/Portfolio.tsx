@@ -142,15 +142,15 @@ const STACKS = [
   // Backend / Platform
   "Node", "Express", "NestJS", "Spring Boot", "REST APIs", "GraphQL",
   // Mobile
-  "Android (Java)", "Responsive Design",
+  "Android (Java)", "Flutter",
   // Data / AI
-  "Python", "pandas", "scikit-learn", "XGBoost", "Data Pipelines",
+  "Python", "pandas", "scikit-learn", "Data Pipelines",
   // DevOps / Tooling
   "Docker", "GitHub Actions", "CI/CD",
   // Databases
   "PostgreSQL", "MySQL", "MongoDB",
   // Embedded / Robotics
-  "Arduino", "ESP32", "C/C++", "PID Control", "Sensor Fusion", "BLE/HID", "Servo", "Ultrasonic Sensors",
+  "Arduino", "ESP32", "C/C++", "PID Control", "PWM Control", "Sensors", "BLE/HID",
   // Misc
   "OpenCV", "FastAPI"
 ];
