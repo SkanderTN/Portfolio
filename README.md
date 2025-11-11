@@ -134,5 +134,3 @@ Skander Hakouna — Web & Mobile • Robotics / Embedded • Data & Intelligent 
 LinkedIn: https://www.linkedin.com/in/skander-hakouna  
 GitHub: https://github.com/SkanderTN  
 Email: skander.hakouna@enicar.ucar.tn
-
-If this portfolio helps or inspires you, a star is appreciated 🚀
