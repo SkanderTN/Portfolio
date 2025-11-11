@@ -1,8 +1,14 @@
 {
-  "name": "vite-react-portfolio",
-  "private": true,
-  "version": "0.0.1",
+  "name": "portfolio",
+  "private": false,
+  "version": "1.0.0",
   "type": "module",
+  "author": "Skander Hakouna <skander.hakouna@enicar.ucar.tn>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SkanderTN/Portfolio.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
